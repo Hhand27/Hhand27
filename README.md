@@ -20,6 +20,4 @@ Actualmente estoy aprendiendo:
 - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 ## 📫 Cómo contactarme
-
-- **Correo**: [hhaand27@gmail.com](mailto:hhaand27@gmail.com)
 - **Discord**: hand27
